@@ -26,4 +26,4 @@ NIST-standardized and built on independently audited primitives.
 
 ## Links
 
-[Developer docs & Armature L1 explorer](https://chain.kxco.ai) · [Verify a signature live](https://verify.kxco.ai) · [KXCO corporate](https://kxco.ai/corporate) · [LinkedIn](https://www.linkedin.com/company/kxco) · Security: security@kxco.ai
+[Developer docs](https://docs.kxco.ai) · [Armature L1 explorer](https://chain.kxco.ai) · [Verify a signature live](https://verify.kxco.ai) · [KXCO corporate](https://kxco.ai/corporate) · [LinkedIn](https://www.linkedin.com/company/kxco) · Security: security@kxco.ai
