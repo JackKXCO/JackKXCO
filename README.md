@@ -16,7 +16,7 @@ npx kxco-pq keygen         # generate a keypair — for a person or an AI agent
 
 | | |
 |---|---|
-| [kxco-post-quantum](https://github.com/KnightsbridgeAIQ/kxco-post-quantum) | ML-DSA-65 + ML-KEM-768 primitives (NIST FIPS 204 / 203) |
+| [kxco-post-quantum](https://github.com/KnightsbridgeAIQ/kxco-post-quantum) | ML-DSA-87 and ML-DSA-65, ML-KEM-1024 and ML-KEM-768 primitives (NIST FIPS 204 / 203) |
 | [kxco-verify](https://github.com/KnightsbridgeAIQ/kxco-verify) | Verifies any KXCO signature — browser or server, no KXCO server required |
 | [kxco-pq-webhook](https://github.com/KnightsbridgeAIQ/kxco-pq-webhook) | Dual-signed webhooks for Express, Fastify, Hono, Workers, Vercel |
 
